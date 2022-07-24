@@ -1,4 +1,3 @@
-import json
 
 class mitmproxyHeaders:
 	def __init__(self):
